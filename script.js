@@ -18,7 +18,7 @@ const questions = [
         ]
     },
     {
-        question: "Which is the smallest country in the world?",
+        question: "Which is the smallest country in the world in term of both Population and Area?",
         answer: [
             {text:"Vetican City", correct: true},
             {text:"Bhutan", correct: false},
@@ -44,7 +44,7 @@ const questions = [
             {text:"Antartica", correct: true}
         ]
     },{
-        question: "Which is the second largest country in the world in term of Area?",
+        question: "Which is the second smallest country in the world in term of Area?",
         answer: [
             {text:"Vatican City", correct: false},
             {text:"Nauru", correct: false},
